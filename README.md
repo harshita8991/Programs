@@ -11,3 +11,11 @@
 # b. Generate all prime numbers till ‘n’
 ![image](https://github.com/user-attachments/assets/82199d4a-2149-4711-b451-fdff84fde3bf)
 
+# 3. WAP to create a pyramid of the character '*' and a reverse symbol.
+![image](https://github.com/user-attachments/assets/fd1c0226-ac63-47be-ba74-9472e88459c8)
+![image](https://github.com/user-attachments/assets/76bfb485-dd6a-47d0-ad3c-6268b8279469)
+
+
+
+
+
