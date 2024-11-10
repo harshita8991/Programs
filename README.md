@@ -30,7 +30,7 @@ c. if the character is a numeric digit, prints its name in text
 ![image](https://github.com/user-attachments/assets/985f7346-3a62-4746-89ef-e411c7cf78d2)
 ![image](https://github.com/user-attachments/assets/b5319818-acce-4a48-ab5f-86cc737648ef)
 
-# 5.. WAP to perform the following operations on a string.
+# 5. WAP to perform the following operations on a string.
 1.find the frequecy of a character in a string.
 
 ![image](https://github.com/user-attachments/assets/9476c5e7-24c2-4b5b-97b4-873338827c5a)
@@ -43,15 +43,16 @@ c. if the character is a numeric digit, prints its name in text
 
 ![image](https://github.com/user-attachments/assets/2b75c1fd-b583-4cf5-a409-604d424f783c)
 
-# 6.WAP to swap the first n characters of two strings.
+# 6. WAP to swap the first n characters of two strings.
 
 ![image](https://github.com/user-attachments/assets/f2b1f755-925a-4a7b-828f-4b7c9d4eeed8)
 
-# 7.write a function that accepts two string and returns the indices of all the occurences of thesecond string in the first string as a list.If the second string is not present in present in first string then itshould return -1. 
+# 7. write a function that accepts two string and returns the indices of all the occurences of thesecond string in the first string as a list.If the second string is not present in present in first string then itshould return -1. 
 
 ![image](https://github.com/user-attachments/assets/63f3349e-4293-4be3-af9c-3f192bf3e257)
 
+# 8. WaP to create a list of only the even integers appearing in the input list(may have elements ofother types) using for loop and list comprehension.
 
-
+![image](https://github.com/user-attachments/assets/d229a591-5064-447b-beb0-440e4d5eecf1)
 
 
