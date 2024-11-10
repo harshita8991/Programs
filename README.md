@@ -6,14 +6,29 @@
 
 # 2. WAP to accept a number ‘n’ to compute the following:
 # a. Check if ’n’ is prime or not.
+
 ![Screenshot 2024-11-10 221339](https://github.com/user-attachments/assets/b2aa616a-f767-454d-a0e0-208141ddb9bb)
 
 # b. Generate all prime numbers till ‘n’
+
 ![image](https://github.com/user-attachments/assets/82199d4a-2149-4711-b451-fdff84fde3bf)
 
 # 3. WAP to create a pyramid of the character '*' and a reverse symbol.
+
 ![image](https://github.com/user-attachments/assets/fd1c0226-ac63-47be-ba74-9472e88459c8)
 ![image](https://github.com/user-attachments/assets/76bfb485-dd6a-47d0-ad3c-6268b8279469)
+
+# 4. WAP that accepts a character and performs the following:
+a. print whether the character is a letter or numeric digit or a special
+character.
+
+b. if the character is a letter, print whether the letter is uppercase or
+lowercase.
+
+c. if the character is a numeric digit, prints its name in text
+
+![image](https://github.com/user-attachments/assets/985f7346-3a62-4746-89ef-e411c7cf78d2)
+![image](https://github.com/user-attachments/assets/b5319818-acce-4a48-ab5f-86cc737648ef)
 
 
 
