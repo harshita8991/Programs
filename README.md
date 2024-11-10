@@ -47,7 +47,9 @@ c. if the character is a numeric digit, prints its name in text
 
 ![image](https://github.com/user-attachments/assets/f2b1f755-925a-4a7b-828f-4b7c9d4eeed8)
 
+# 7.write a function that accepts two string and returns the indices of all the occurences of thesecond string in the first string as a list.If the second string is not present in present in first string then itshould return -1. 
 
+![image](https://github.com/user-attachments/assets/63f3349e-4293-4be3-af9c-3f192bf3e257)
 
 
 
