@@ -43,8 +43,9 @@ c. if the character is a numeric digit, prints its name in text
 
 ![image](https://github.com/user-attachments/assets/2b75c1fd-b583-4cf5-a409-604d424f783c)
 
+# 6.WAP to swap the first n characters of two strings.
 
-
+![image](https://github.com/user-attachments/assets/f2b1f755-925a-4a7b-828f-4b7c9d4eeed8)
 
 
 
