@@ -7,3 +7,7 @@
 # 2. WAP to accept a number ‘n’ to compute the following:
 # a. Check if ’n’ is prime or not.
 ![Screenshot 2024-11-10 221339](https://github.com/user-attachments/assets/b2aa616a-f767-454d-a0e0-208141ddb9bb)
+
+# b. Generate all prime numbers till ‘n’
+![image](https://github.com/user-attachments/assets/82199d4a-2149-4711-b451-fdff84fde3bf)
+
